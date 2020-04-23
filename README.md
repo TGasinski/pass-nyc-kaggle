@@ -8,3 +8,4 @@ I designed this project based on the PASSNYC Kaggle competition from late 2018, 
 Both datasets were taken from the Kaggle "Data Science for Social Good: PASSNYC" competition (https://www.kaggle.com/passnyc/data-science-for-good).
 
 # How to use
+To run the .ipynb file, download the datasets from the /input folder or by clicking on the Kaggle link provided above. 
